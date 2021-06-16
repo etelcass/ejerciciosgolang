@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	fmt.Println(Suma("1", "4", "6"))
-	fmt.Println(resta(25, 15, 5))
+	//	fmt.Println(resta(25, 15, 5))
 
 }
 
